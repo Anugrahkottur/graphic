@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  width: 1000px;
+  height: 500px;
+  background-color: #ffabe7;
+  margin-left: 15%;
+}
+.leftbox2 {
+  display: flex;
+  justify-content: space-between;
+  align-self: center;
+  padding-left: 10%;
+}
+img {
+  height: 400px;
+  width: 500px;
+  border-radius: 30px;
+}
+.leftbox1 {
+  padding-left: 4%;
+}
+.world {
+  background-color: #b3fbe3;
+  border-radius: 30px;
+}
+.fee {
+  background-color: #edddfb;
+  border-radius: 30px;
+}
+.global {
+  background-color: #e3ebfd;
+  border-radius: 30px;
+}
